@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>红色文字诗</title>
+		<style type="text/css">
+		#ruler{
+			width:300;
+			height:200;
+			text-align:center;
+			color:red;
+			
+		}
+		</style>
+	</head>
+	<body >
+		<div id="ruler">
+		窗前明月光，疑是地上霜<br />
+		猪头望明月，低头吃得香<br /></div>
+	</body>
+</html>
